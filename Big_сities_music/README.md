@@ -1,2 +1,0 @@
-# Practic
-Data analyst
