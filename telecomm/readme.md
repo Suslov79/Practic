@@ -15,7 +15,7 @@
 - Оформлен общий вывод исследования
 - Составлены рекомендации 
 
-- подготовлен интерактивный dashboard с фильирами: [Дашборд на сайте Tableau Public:](<https://clck.ru/323wWT>)
+- подготовлен интерактивный dashboard с фильирами: [Дашборд на сайте Tableau Public](<https://clck.ru/323wWT>)
 
 - подготовлен pdf-файл с презентацией: [Презентация](<https://docs.google.com/presentation/d/1O_o_oR2JNSZCG0dqe3Ye9QOeIU4zlIRJClvh4jAHE4s/edit?usp=sharing>)  
 
