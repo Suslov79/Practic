@@ -11,7 +11,7 @@
 
 
 
-[1]:https://github.com/tsladkova/Projects_YandexPracticum/tree/open_restaurant
-[2]:https://github.com/tsladkova/Projects_YandexPracticum/tree/YandexZen
-[3]:https://github.com/tsladkova/Projects_YandexPracticum/tree/telecomm_rate
-[4]:https://github.com/tsladkova/Projects_YandexPracticum/tree/advirtisment_metrics
+[1]:https://github.com/Suslov79/Practic/tree/main/open_restaurant
+[2]:https://github.com/Suslov79/Practic/tree/main/yandex_zen
+[3]:https://github.com/Suslov79/Practic/tree/main/telecomm
+[4]:https://github.com/Suslov79/Practic/tree/main/advirtisment
