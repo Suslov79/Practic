@@ -7,6 +7,7 @@
 | Создание интеракивного дашборда по пользовательским событиям  | *Исследование направлено* на построение дашборда с метриками взаимодействия пользователей с карточками статей в Яндекс.Дзене | Python, PostgreSQL, SQLAlchemy, Tableau, dash, построение дашбордов, продуктовые метрики | [Дашборд по данным Яндекс.Дзен][2] |
 | Исследование опроса клиентов телекомунникацонной компании | *Исследование направлено* на анализ данных с результатами опроса, отражающего текущий уровень потребительской лояльности (NPS) клиентов телекоммуникационной компании. | Python, PostgreSQL, SQLAlchemy, Pandas, Tableau, dash, построение дашбордов, продуктовые метрики | [Дашборд отражающий текущий уровень NPS][3] |
 | Анализ причин убытков рекламной компании  | *Исследование направлено* на анализ причин падения финансовых результатов компании | Python, Pandas, Numpy, Seaborn, Matplotlib, когортный анализ, юнит-экономика, продуктовые метрики | [Расчет LTV, CAC, Retention rate, DAU, WAU, MAU][4] |
+| Исследование базы данных сервиса Stackoverflow | *Исследование, связанное*  с архивной базой данных сервиса StackOverflow.| Python, Pandas, PostgreSQL, SQLAlchemy, Seaborn, Matplotlib | [Продвинутый SQL] [5]
 
 
 
@@ -14,3 +15,4 @@
 [2]:https://github.com/Suslov79/Practic/tree/main/yandex_zen
 [3]:https://github.com/Suslov79/Practic/tree/main/telecomm
 [4]:https://github.com/Suslov79/Practic/tree/main/advirtisment
+[5]:https://github.com/Suslov79/Practic/tree/main/advanced_SQL
